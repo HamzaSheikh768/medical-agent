@@ -12,6 +12,6 @@ It combines reasoning with medical data to deliver user-friendly, educational he
 
 ##🚀 Features
 
-✅ Symptom Checker – Input your symptoms and get possible related conditions.
+✅ Symptom Checker – Input your symptoms and get possible related conditions./n
 ✅ Medication Information – Provides general medicine names, uses, and side effects.
 ✅ Disease Knowledge Base – Common diseases, causes, and prevention tips.
